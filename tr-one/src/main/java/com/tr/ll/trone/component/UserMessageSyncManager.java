@@ -1,6 +1,6 @@
 /**
  * FileName: UserMessageSyncManager
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/17 12:56 下午
  * Description: 用户消息同步管理
  * History:
@@ -17,7 +17,7 @@ import java.util.concurrent.*;
  * 〈一句话功能简述〉<br> 
  * 〈用户消息同步管理〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/17
  * @since 1.0.0
  */

@@ -1,6 +1,6 @@
 /**
  * FileName: UserServiceImpl
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/13 9:08 下午
  * Description: 用户服务实现
  * History:
@@ -25,7 +25,7 @@ import java.util.concurrent.TimeUnit;
  * 〈一句话功能简述〉<br> 
  * 〈用户服务实现〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/13
  * @since 1.0.0
  */

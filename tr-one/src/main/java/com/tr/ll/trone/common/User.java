@@ -1,6 +1,6 @@
 /**
  * FileName: User
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/13 9:03 下午
  * Description:
  * History:
@@ -19,7 +19,7 @@ import java.util.Date;
  * 〈一句话功能简述〉<br> 
  * 〈用户信息〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/13
  * @since 1.0.0
  */

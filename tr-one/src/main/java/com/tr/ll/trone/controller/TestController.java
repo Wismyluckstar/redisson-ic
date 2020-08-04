@@ -1,6 +1,6 @@
 /**
  * FileName: TestController
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/13 12:45 下午
  * Description: 测试
  * History:
@@ -20,7 +20,7 @@ import org.springframework.web.servlet.function.ServerResponse;
  * 〈一句话功能简述〉<br> 
  * 〈测试〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/13
  * @since 1.0.0
  */

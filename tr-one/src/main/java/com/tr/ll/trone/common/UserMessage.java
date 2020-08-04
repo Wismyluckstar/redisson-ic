@@ -1,6 +1,6 @@
 /**
  * FileName: Message
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/13 10:38 下午
  * Description: Share
  * History:
@@ -18,7 +18,7 @@ import java.util.Date;
  * 〈一句话功能简述〉<br> 
  * 〈Share （朋友圈）〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/13
  * @since 1.0.0
  */

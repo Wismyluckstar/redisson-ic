@@ -1,6 +1,6 @@
 /**
  * FileName: UserFollowService
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/14 12:49 下午
  * Description: 用户关注服务实现
  * History:
@@ -15,7 +15,7 @@ import java.util.concurrent.ExecutionException;
  * 〈一句话功能简述〉<br> 
  * 〈用户关注列表服务实现〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/14
  * @since 1.0.0
  */

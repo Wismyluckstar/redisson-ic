@@ -1,6 +1,6 @@
 /**
  * FileName: UserService
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/13 8:06 下午
  * Description: 用户服务
  * History:
@@ -13,7 +13,7 @@ package com.tr.ll.trone.service;
  * 〈一句话功能简述〉<br> 
  * 〈用户服务〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/13
  * @since 1.0.0
  */
@@ -22,7 +22,7 @@ public interface UserService {
     /**
      * 
      * @Description:  用户注册
-     * @Author yangyu
+     * @Author yy
      * @Date 8:08 下午 2020/7/13
      * @return 
      **/
@@ -32,7 +32,7 @@ public interface UserService {
     /**
      *
      * @Description: 用户登录
-     * @Author yangyu
+     * @Author yy
      * @Date 8:09 下午 2020/7/13
      * @return
      **/

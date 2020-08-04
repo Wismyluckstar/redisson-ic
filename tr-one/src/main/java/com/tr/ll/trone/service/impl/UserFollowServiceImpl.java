@@ -1,6 +1,6 @@
 /**
  * FileName: UserFollowServiceImpl
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/14 12:52 下午
  * Description: 用户关注操作实现类
  * History:
@@ -36,7 +36,7 @@ import java.util.concurrent.ExecutionException;
  * 〈一句话功能简述〉<br> 
  * 〈用户关注操作实现类〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/14
  * @since 1.0.0
  */
@@ -53,7 +53,7 @@ public class UserFollowServiceImpl implements UserFollowService {
      * @param beFollowUId
      * @return
      * @Description: 关注用户操作
-     * @Author yangyu
+     * @Author yy
      * @Date 12:50 下午 2020/7/14
      * @Param beFollowUId 被关注人
      **/
@@ -94,7 +94,7 @@ public class UserFollowServiceImpl implements UserFollowService {
      * @param beFollowUId
      * @return
      * @Description: 取关用户操作
-     * @Author yangyu
+     * @Author yy
      * @Date 12:50 下午 2020/7/14
      * @Param beFollowUId 被取关人
      **/

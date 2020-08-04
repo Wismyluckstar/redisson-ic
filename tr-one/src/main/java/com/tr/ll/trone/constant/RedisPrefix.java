@@ -1,6 +1,6 @@
 /**
  * FileName: RedisPrefix
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/8/3 11:23 下午
  * Description: redis前缀
  * History:
@@ -13,7 +13,7 @@ package com.tr.ll.trone.constant;
  * 〈一句话功能简述〉<br> 
  * 〈redis前缀〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/8/3
  * @since 1.0.0
  */

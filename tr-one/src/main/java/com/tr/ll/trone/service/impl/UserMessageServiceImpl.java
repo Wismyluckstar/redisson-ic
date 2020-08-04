@@ -1,6 +1,6 @@
 /**
  * FileName: UserMessageServiceImpl
- * Author:   yangyu
+ * Author:   yy
  * Date:     2020/7/14 12:00 下午
  * Description: 用户发消息实现
  * History:
@@ -31,7 +31,7 @@ import java.util.concurrent.ExecutionException;
  * 〈一句话功能简述〉<br> 
  * 〈用户发消息实现〉
  *
- * @author yangyu
+ * @author yy
  * @create 2020/7/14
  * @since 1.0.0
  */
@@ -44,7 +44,7 @@ public class UserMessageServiceImpl implements UserMessageService {
 
     /**
      * @Description: 创建朋友圈消息
-     * @Author yangyu
+     * @Author yy
      * @Date 10:54 下午 2020/7/13
      * @Param  * @param null
      * @return
@@ -102,7 +102,7 @@ public class UserMessageServiceImpl implements UserMessageService {
      * @return
      * @Description: 获取用户主页时间线   换句话说就是朋友圈列表
      * # 它们分别用于指定函数要获取哪条时间线、要获取多少页时间线、以及每页要有多少条状态消息。
-     * @Author yangyu
+     * @Author yy
      * @Date 12:27 下午 2020/7/14
      * @Param * @param null
      */
@@ -138,7 +138,7 @@ public class UserMessageServiceImpl implements UserMessageService {
      * @param messageContent
      * @return
      * @Description: 发布朋友圈消息
-     * @Author yangyu
+     * @Author yy
      * @Date 12:34 下午 2020/7/15
      * @Param * @param null
      */
@@ -167,7 +167,7 @@ public class UserMessageServiceImpl implements UserMessageService {
      * @param messageId
      * @return
      * @Description: 将当前发布的状态同步到粉丝说说上
-     * @Author yangyu
+     * @Author yy
      * @Date 12:44 下午 2020/7/15
      */
     @Override
@@ -194,7 +194,7 @@ public class UserMessageServiceImpl implements UserMessageService {
      * @param messageId
      * @return
      * @Description: 将当前发布的状态同步到粉丝说说上
-     * @Author yangyu
+     * @Author yy
      * @Date 12:44 下午 2020/7/15
      */
     @Override
@@ -216,7 +216,7 @@ public class UserMessageServiceImpl implements UserMessageService {
 
     /**
      * @Description: 同步消息
-     * @Author yangyu
+     * @Author yy
      * @Date 1:14 下午 2020/7/17
      * @Param  * @param null
      * @return
@@ -235,7 +235,7 @@ public class UserMessageServiceImpl implements UserMessageService {
 
     /**
      * @Description: 同步消息
-     * @Author yangyu
+     * @Author yy
      * @Date 1:14 下午 2020/7/17
      * @Param  * @param null
      * @return
@@ -256,7 +256,7 @@ public class UserMessageServiceImpl implements UserMessageService {
      * @param messageId
      * @return
      * @Description: 删除说说
-     * @Author yangyu
+     * @Author yy
      * @Date 1:08 下午 2020/7/15
      * @Param * @param null
      */
